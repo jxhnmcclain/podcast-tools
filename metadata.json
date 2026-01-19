@@ -1,0 +1,5 @@
+{
+  "name": "Podcast Studio Prompter",
+  "description": "A minimalist, beige-and-black studio tool featuring a 1-hour countdown timer and a scrollable teleprompter for podcast segments.",
+  "requestFramePermissions": []
+}
